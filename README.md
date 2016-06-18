@@ -1,0 +1,2 @@
+# Sfumatura
+Simulazione di sfumatura
